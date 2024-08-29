@@ -1,0 +1,30 @@
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\bin\Debug\net8.0\appsettings.json
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\bin\Debug\net8.0\PROYECTO PROGRA.staticwebassets.runtime.json
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\bin\Debug\net8.0\PROYECTO PROGRA.exe
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\bin\Debug\net8.0\PROYECTO PROGRA.deps.json
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\bin\Debug\net8.0\PROYECTO PROGRA.runtimeconfig.json
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\bin\Debug\net8.0\PROYECTO PROGRA.dll
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\bin\Debug\net8.0\PROYECTO PROGRA.pdb
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\PROYECTO PROGRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\PROYECTO PROGRA.AssemblyInfoInputs.cache
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\PROYECTO PROGRA.AssemblyInfo.cs
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\PROYECTO PROGRA.csproj.CoreCompileInputs.cache
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\PROYECTO PROGRA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\PROYECTO PROGRA.RazorAssemblyInfo.cache
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\PROYECTO PROGRA.RazorAssemblyInfo.cs
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\staticwebassets\msbuild.PROYECTO PROGRA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\staticwebassets\msbuild.build.PROYECTO PROGRA.props
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PROYECTO PROGRA.props
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PROYECTO PROGRA.props
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\scopedcss\bundle\PROYECTO PROGRA.styles.css
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\scopedcss\projectbundle\PROYECTO PROGRA.bundle.scp.css
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\PROYECTO PROGRA.dll
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\refint\PROYECTO PROGRA.dll
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\PROYECTO PROGRA.pdb
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\PROYECTO PROGRA.genruntimeconfig.cache
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\ref\PROYECTO PROGRA.dll

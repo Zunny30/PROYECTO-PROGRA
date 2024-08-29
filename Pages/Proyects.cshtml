@@ -1,0 +1,26 @@
+﻿@page
+@model PROYECTO_PROGRA.Pages.ProyectsModel
+@{
+    ViewData["Title"] = "Proyectos Realizados";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (Model.Repositories != null && Model.Repositories.Count > 0)
+{
+    <ul>
+        @foreach (var repo in Model.Repositories)
+        {
+            <li>
+                <h3>Nombre del Proyecto:@repo.Name</h3>
+                <p>Descripcion: @repo.Description</p>
+                <p><strong>Tecnologías utilizadas:</strong> @repo.Language</p>
+                <a href="@repo.HtmlUrl">Ver en GitHub</a>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No se encontraron repositorios públicos.</p>
+}</div>

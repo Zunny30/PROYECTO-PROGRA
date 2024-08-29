@@ -1,0 +1,26 @@
+﻿using Microsoft.AspNetCore.Mvc.RazorPages;
+using Octokit;
+
+public class ProjectsModel : PageModel
+{
+    public IReadOnlyList<Repository>
+    Repositories { get; set; }
+
+    public async Task OnGetAsync()
+    {
+    var github = new GitHubClient(new ProductHeaderValue("PortfolioApp"));
+    Repositories = await github.Repository.GetAllForUser("TuNombreDeUsuarioGitHub");
+    }
+    <h2>Mis Proyectos</h2>
+    <ul>
+        @foreach (var repo in Model.Repositories)
+
+        {
+            <li>
+                <h3>@repo.Name</h3>
+                <p>@repo.Description</p>
+                <p>Tecnologías: @repo.Language</p>
+                <a href="@repo.HtmlUrl">Ver en GitHub</a>
+            </li>
+        }
+    </ul>

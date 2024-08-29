@@ -14,7 +14,20 @@
             <li>
                 <h3>Nombre del Proyecto:@repo.Name</h3>
                 <p>Descripcion: @repo.Description</p>
-                <p><strong>Tecnologías utilizadas:</strong> @repo.Language</p>
+                @if (repo.Languages != null && repo.Languages.Count > 0)
+                {
+                    <p>Tecnologias:</p>
+                    <ul>
+                        @foreach (var language in repo.Languages)
+                        {
+                            <li>@language</li>
+                        }
+                    </ul>
+                }
+                else
+                {
+                    <p>No se encontraron tecnologías utilizadas.</p>
+                }
                 <a href="@repo.HtmlUrl">Ver en GitHub</a>
             </li>
         }

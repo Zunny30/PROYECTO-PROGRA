@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{188D1AE4-17E0-4017-A382-18E9E65BF077}|PROYECTO PROGRA.csproj|c:\\users\\vegaz\\source\\repos\\proyecto progra\\pages\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188D1AE4-17E0-4017-A382-18E9E65BF077}|PROYECTO PROGRA.csproj|solutionrelative:pages\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188D1AE4-17E0-4017-A382-18E9E65BF077}|PROYECTO PROGRA.csproj|c:\\users\\vegaz\\source\\repos\\proyecto progra\\pages\\githubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188D1AE4-17E0-4017-A382-18E9E65BF077}|PROYECTO PROGRA.csproj|solutionrelative:pages\\githubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188D1AE4-17E0-4017-A382-18E9E65BF077}|PROYECTO PROGRA.csproj|c:\\users\\vegaz\\source\\repos\\proyecto progra\\pages\\proyects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{188D1AE4-17E0-4017-A382-18E9E65BF077}|PROYECTO PROGRA.csproj|solutionrelative:pages\\proyects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{188D1AE4-17E0-4017-A382-18E9E65BF077}|PROYECTO PROGRA.csproj|c:\\users\\vegaz\\source\\repos\\proyecto progra\\pages\\proyects.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{188D1AE4-17E0-4017-A382-18E9E65BF077}|PROYECTO PROGRA.csproj|solutionrelative:pages\\proyects.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{188D1AE4-17E0-4017-A382-18E9E65BF077}|PROYECTO PROGRA.csproj|c:\\users\\vegaz\\source\\repos\\proyecto progra\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{188D1AE4-17E0-4017-A382-18E9E65BF077}|PROYECTO PROGRA.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{188D1AE4-17E0-4017-A382-18E9E65BF077}|PROYECTO PROGRA.csproj|c:\\users\\vegaz\\source\\repos\\proyecto progra\\pages\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{188D1AE4-17E0-4017-A382-18E9E65BF077}|PROYECTO PROGRA.csproj|solutionrelative:pages\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{188D1AE4-17E0-4017-A382-18E9E65BF077}|PROYECTO PROGRA.csproj|c:\\users\\vegaz\\source\\repos\\proyecto progra\\pages\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,38 +46,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Projects.cshtml",
-              "DocumentMoniker": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\Pages\\Projects.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Projects.cshtml",
-              "ToolTip": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\Pages\\Projects.cshtml",
-              "RelativeToolTip": "Pages\\Projects.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Proyects.cshtml",
+              "DocumentMoniker": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\Pages\\Proyects.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Proyects.cshtml",
+              "ToolTip": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\Pages\\Proyects.cshtml",
+              "RelativeToolTip": "Pages\\Proyects.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T21:52:41.883Z",
+              "WhenOpened": "2024-08-29T04:33:37.525Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GitHubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\Pages\\GitHubRepository.cs",
+              "RelativeDocumentMoniker": "Pages\\GitHubRepository.cs",
+              "ToolTip": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\Pages\\GitHubRepository.cs",
+              "RelativeToolTip": "Pages\\GitHubRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:27:35.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\Pages\\GitHubService.cs",
+              "RelativeDocumentMoniker": "Pages\\GitHubService.cs",
+              "ToolTip": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\Pages\\GitHubService.cs",
+              "RelativeToolTip": "Pages\\GitHubService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:27:29.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Proyects.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\Pages\\Proyects.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Proyects.cshtml.cs",
               "ToolTip": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\Pages\\Proyects.cshtml.cs",
               "RelativeToolTip": "Pages\\Proyects.cshtml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T02:04:39.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Skills.cshtml",
               "DocumentMoniker": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\Pages\\Skills.cshtml",
               "RelativeDocumentMoniker": "Pages\\Skills.cshtml",
@@ -81,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -93,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
@@ -105,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -117,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vegaz\\source\\repos\\PROYECTO PROGRA\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

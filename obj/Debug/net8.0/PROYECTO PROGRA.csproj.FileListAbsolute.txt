@@ -28,3 +28,4 @@ C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\refint\PROYECTO PRO
 C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\PROYECTO PROGRA.pdb
 C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\PROYECTO PROGRA.genruntimeconfig.cache
 C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\ref\PROYECTO PROGRA.dll
+C:\Users\vegaz\source\repos\PROYECTO PROGRA\obj\Debug\net8.0\PROYECTO PROGRA.sourcelink.json
